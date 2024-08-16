@@ -1,0 +1,16 @@
+Git
+- https://git-scm.com/
+- Relação com a ementa do curso : 1, 2, 4, 14
+
+Vscode
+- https://code.visualstudio.com
+- Relação com a ementa do curso : 4, 5, 6, 7, 9, 10, 11, 12, 13, 14
+
+Python
+- https://www.python.org
+- Relação com a ementa do curso : 4, 8, 11, 13, 14
+
+SQLiteBrowser
+- https://sqlitebrowser.org
+- Relação com a ementa do curso : 1, 8, 11, 12
+
