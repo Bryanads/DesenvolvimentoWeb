@@ -14,3 +14,5 @@ SQLiteBrowser
 - https://sqlitebrowser.org
 - Relação com a ementa do curso : 1, 8, 11, 12
 
+Desenvolvimento Web - Segundo Período - 2024
+
