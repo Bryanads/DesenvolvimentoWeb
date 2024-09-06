@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício 1</title>
+</head>
+<body>
+    <h1 id="inicio">Primeiro Título</h1>
+    <h2>Segundo Título</h2>
+    <h3>Terceiro Título</h3>
+    <h4>Quarto Título</h4>
+    <h5>Quinto Título</h5>
+    <h6>Sexto Título</h6>
+    <hr>
+
+    <menu></menu>
+        <li><a href="#textos">Textos</a></li>
+        <li><a href="#midias">midias</a></li>
+        <li><a href="#listas">Listas</a></li>
+        <li><a href="#forms">forms</a></li>
+    </menu>
+
+    <div id="textos">
+        <span>Esse texto tem um <span>span</span>.</span>
+        <br>
+        <strong>Este texto usa a tag para enfatizar o conteúdo.</strong>
+        <br>
+        <em>Este texto está usando a tag para ênfase.</em>
+        <br>
+        <del>Este texto está usando a tag para indicar remoção.</del>
+        <br>
+        <ins>Este texto está usando a tag para indicar inserção.</ins>
+        <br>
+        <a href="https://www.youtube.com/watch?v=D1dSAQlrNGc">Este é um link para o YouTube.</a>
+    </div>
+    <br>
+    <hr>
+    <div id="midias">
+        <img src="emoji-mashup.png" alt="emoji aleatorio"><br><br>
+        <video src="videoplayback.mp4" controls></video><br><br>
+        <audio src="ZeRO &  Twin Pumpkin - FANTASMA (Unplugged).mp3" controls></audio>
+    </div>
+    <br>
+    <hr>
+
+    <div id="listas">
+        <ul>
+            <li>Primeiro item de uma lista não ordenada</li>
+            <li>Segundo item de uma lista não ordenada</li>
+            <li>Primeiro item de uma lista não ordenada</li>
+            <li>Segundo item de uma lista não ordenada</li>
+            <li>Primeiro item de uma lista não ordenada</li>
+            <li>Segundo item de uma lista não ordenada</li>
+        </ul>
+
+        <ol>
+            <li>Primeiro item de uma lista ordenada</li>
+            <li>Segundo item de uma lista ordenada</li>
+            <li>Primeiro item de uma lista ordenada</li>
+            <li>Segundo item de uma lista ordenada</li>
+            <li>Primeiro item de uma lista ordenada</li>
+            <li>Segundo item de uma lista ordenada</li>
+        </ol>
+
+    </div>
+
+    <hr>
+    <div id="forms">
+        <section>
+            <h1>Formulário GET</h1>
+            <form method="get">
+                <label for="nome-get">Nome:</label>
+                <input id="nome-get" name="nomedoinput"><br><br>
+
+                <label for="textarea-get">TextArea:</label>
+                <textarea id="textarea-get"></textarea><br><br>
+
+                <label for="opcoes-get">Escolha uma opção:</label>
+                <select id="opcoes-get" name="opcoes">
+                    <option value="opcao1">Opção 1</option>
+                    <option value="opcao2">Opção 2</option>
+                    <option value="opcao3">Opção 3</option>
+                </select><br><br>
+
+                <button type="submit">Enviar</button>
+            </form>
+        </section>
+
+        <br><br><br><br>
+        <section>
+            <h1>Formulário POST</h1>
+            <form method="post">
+                <label for="nome-post">Nome:</label>
+                <input id="nome-post" name="nomedoinput"><br><br>
+
+                <label for="textarea-post">TextArea:</label>
+                <textarea id="textarea-post"></textarea><br><br>
+
+                <label for="opcoes-post">Escolha uma opção:</label>
+                <select id="opcoes-post" name="opcoes">
+                    <option value="opcao1">Opção 1</option>
+                    <option value="opcao2">Opção 2</option>
+                    <option value="opcao3">Opção 3</option>
+                </select><br><br>
+
+                <button type="submit">Enviar</button>
+            </form>
+        </section>
+    </div>
+</body>
+</html>
