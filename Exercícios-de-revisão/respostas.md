@@ -1,16 +1,16 @@
 
-##1. 
+##1.  
 Além do controle de versões, que gerencia as mudanças do código ao longo do tempo, podendo verificar ou até mesmo voltar a versões anteriores, os sistemas de versionamento facilitaram a colaboração das equipes, permitindo o trabalho simultâneo de diferentes usuários no mesmo código de maneira eficiente.
 
-##2.
+##2.  
 **Git** é uma ferramenta de versionamento, enquanto **GitHub** é um serviço de hospedagem para repositórios baseados em Git.
 
-##3. 
+##3.   
    - **HTML**: Marcação de texto para criar a "base" do documento.
    - **CSS**: Linguagem para estilizar o documento.
    - **JavaScript**: Linguagem de programação para adicionar interatividade e funcionalidades aos documentos Web.
 
-##4.
+##4.  
    - **Tag**: Um marcador que serve para o navegador interpretar o conteúdo contido dentro dessa tag.
    - **Elemento**: O conjunto que inclui tag(s) e o conteúdo.
    - **Atributo**: Informações adicionais sobre um elemento, como identificadores (ex.: class, ID).
